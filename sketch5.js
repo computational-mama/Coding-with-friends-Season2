@@ -104,7 +104,7 @@
     textSize(2)
     text("CODING WITH FRIENDS", xresolution/2, yresolution/2-4, 0, 400)
     textSize(1)
-    text("Streaming 16-20 July 2021", xresolution/2, yresolution/2+5)
+    text("PCD INDIA 2021", xresolution/2, yresolution/2+5)
     pop()
 
   }
